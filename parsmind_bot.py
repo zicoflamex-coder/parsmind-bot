@@ -5,8 +5,8 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import requests
 
 # ─── تنظیمات ───────────────────────────────────────────────
-BOT_TOKEN = "اینجا توکن ربات تلگرامت رو بذار"
-OPENROUTER_API_KEY = "اینجا API Key اوپن‌روتر رو بذار"
+BOT_TOKEN = ″8847237215:AAF8uLortQ8FkmxRKttDzOtqiRhW17ulo0c"
+OPENROUTER_API_KEY = "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"
 
 MODEL = "meta-llama/llama-3.3-8b-instruct:free"
 
